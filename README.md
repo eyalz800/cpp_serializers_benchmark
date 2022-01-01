@@ -7,7 +7,7 @@
 * [flatbuffers](https://google.github.io/flatbuffers/) 2.0.0
 * [yas](https://github.com/niXman/yas) 7.1.0
 * [protobuf](https://developers.google.com/protocol-buffers/) 3.17.3
-* [zpp_bits](https://github.com/eyalz800/zpp_bits) 2.0
+* [zpp_bits](https://github.com/eyalz800/zpp_bits) 2.3
 * [msgpack](https://github.com/msgpack/msgpack-c) 3.3.0
 
 ## GCC 11 (Ubuntu 20.04 x64)
