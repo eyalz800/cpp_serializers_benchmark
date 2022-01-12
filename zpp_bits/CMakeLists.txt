@@ -3,8 +3,8 @@ set(zpp_bits_INCLUDE ${zpp_bits_PREFIX}/src/zpp_bits_dep)
 ExternalProject_Add(
         zpp_bits_dep
         PREFIX ${zpp_bits_PREFIX}
-        URL "https://github.com/eyalz800/zpp_bits/archive/v3.4.tar.gz"
-        URL_MD5 "bf94c2f21600a4a99b54c0f257050bfd"
+        URL "https://github.com/eyalz800/zpp_bits/archive/v3.8.tar.gz"
+        URL_MD5 "0faefa8fcc817c77e3dfad77675700b2"
         CONFIGURE_COMMAND ""
         BUILD_COMMAND ""
         INSTALL_COMMAND ""
